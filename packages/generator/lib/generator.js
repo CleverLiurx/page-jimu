@@ -3,5 +3,5 @@
 module.exports = generator;
 
 function generator() {
-  console.log("Hello from generator")
+  console.log("Hello from generator1")
 }
