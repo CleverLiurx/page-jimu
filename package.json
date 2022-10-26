@@ -1,0 +1,19 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "commit": "cz-customizable",
+    "prepare": "husky install"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "commitlint-config-cz": "^0.13.3",
+    "commitlint-config-git-commit-emoji": "^1.0.0",
+    "cz-customizable": "^7.0.0",
+    "husky": "^8.0.1",
+    "lerna": "^6.0.1"
+  }
+}

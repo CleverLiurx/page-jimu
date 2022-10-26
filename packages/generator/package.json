@@ -1,0 +1,29 @@
+{
+  "name": "@page-jimu/generator",
+  "version": "1.0.0",
+  "description": "生成器：ui -> schema",
+  "author": "liurx <13131451002@163.com>",
+  "homepage": "https://github.com/CleverLiurx/page-jimu#readme",
+  "license": "ISC",
+  "main": "lib/generator.js",
+  "scripts": {
+    "test": "node ./__tests__/@page-jimu/generator.test.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleverLiurx/page-jimu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CleverLiurx/page-jimu/issues"
+  }
+}
