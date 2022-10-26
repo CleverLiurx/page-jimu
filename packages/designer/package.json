@@ -1,6 +1,6 @@
 {
   "name": "@page-jimu/designer",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "设计器",
   "author": "liurx <13131451002@163.com>",
   "homepage": "https://github.com/CleverLiurx/page-jimu#readme",
@@ -28,7 +28,7 @@
     "url": "https://github.com/CleverLiurx/page-jimu/issues"
   },
   "dependencies": {
-    "@page-jimu/generator": "^0.0.0",
-    "@page-jimu/renderer": "^0.0.0"
+    "@page-jimu/generator": "^0.0.1-alpha.0",
+    "@page-jimu/renderer": "^0.0.1-alpha.0"
   }
 }
