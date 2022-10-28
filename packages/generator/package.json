@@ -2,7 +2,7 @@
   "name": "@page-jimu/generator",
   "version": "0.0.1",
   "description": "生成器：ui -> schema",
-  "author": "liurx <13131451002@163.com>",
+  "author": "liurx <1@163.com>",
   "homepage": "https://github.com/CleverLiurx/page-jimu#readme",
   "license": "ISC",
   "main": "lib/generator.js",
